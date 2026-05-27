@@ -1,4 +1,4 @@
-# 📚 100 Days DSA Challenge - Python
+#  100 Days DSA Challenge - Python
 
 A comprehensive journey through **Data Structures and Algorithms** with Python, starting from the basics.
 
@@ -12,7 +12,7 @@ This is a **100-day coding challenge** designed to build a strong foundation in 
 
 ---
 
-## 📋 Structure
+##  Structure
 
 The challenge is organized into phases, each building on previous knowledge:
 
@@ -54,25 +54,7 @@ The challenge is organized into phases, each building on previous knowledge:
 
 ---
 
-## 📂 Directory Structure
-
-```
-Dsa/
-│
-├── README.md                 # This file
-├── Phase_1/                  # Fundamentals
-├── Phase_2/                  # Arrays & Strings
-├── Phase_3/                  # Linked Lists
-├── Phase_4/                  # Stacks & Queues
-├── Phase_5/                  # Trees
-├── Phase_6/                  # Graphs & Advanced
-│
-└── notes/                    # Learning notes and concepts
-```
-
----
-
-## ✨ Key Topics Covered
+##  Key Topics Covered
 
 | Topic | Status |
 |-------|--------|
@@ -91,7 +73,7 @@ Dsa/
 
 ---
 
-## 🚀 Daily Routine
+##  Daily Routine
 
 1. **Learn** - Understand the concept with visual explanations
 2. **Implement** - Code from scratch without looking at solutions
@@ -100,7 +82,7 @@ Dsa/
 
 ---
 
-## 📝 Progress Tracker
+##  Progress Tracker
 
 Track your progress here:
 
@@ -110,7 +92,7 @@ Track your progress here:
 
 ---
 
-## 💻 Resources
+##  Resources
 
 ### Recommended Platforms
 - **LeetCode** - Problem solving practice
@@ -124,7 +106,7 @@ Track your progress here:
 
 ---
 
-## 🛠️ Setup
+##  Setup
 
 ### Requirements
 - Python 3.7 or higher
@@ -148,7 +130,7 @@ source dsa_env/bin/activate
 
 ---
 
-## 📌 File Naming Convention
+##  File Naming Convention
 
 For code files:
 ```
@@ -159,16 +141,16 @@ Example: `Day_01_Variables_and_Functions.py`
 
 ---
 
-## 💡 Tips for Success
+##  Tips for Success
 
-✅ **Do:**
+ **Do:**
 - Code every single day (consistency over intensity)
 - Understand concepts before memorizing
 - Solve problems without looking at hints first
 - Discuss solutions with others
 - Keep a learning journal
 
-❌ **Don't:**
+ **Don't:**
 - Skip days
 - Copy-paste solutions
 - Memorize without understanding
@@ -177,7 +159,7 @@ Example: `Day_01_Variables_and_Functions.py`
 
 ---
 
-## 📊 Success Metrics
+##  Success Metrics
 
 - [ ] Solve at least 200+ problems
 - [ ] Understand Big O complexity for all algorithms
@@ -186,7 +168,7 @@ Example: `Day_01_Variables_and_Functions.py`
 
 ---
 
-## 🤝 Contributing to Your Own Journey
+##  Contributing to Your Own Journey
 
 This is **YOUR** challenge. Make it personal:
 - Add your own notes
@@ -196,13 +178,13 @@ This is **YOUR** challenge. Make it personal:
 
 ---
 
-## 📜 License
+##  License
 
 This challenge repository is for personal learning and educational purposes.
 
 ---
 
-## 🎓 Final Thoughts
+##  Final Thoughts
 
 > "The best time to learn DSA was yesterday. The second best time is today."
 
