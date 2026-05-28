@@ -2,12 +2,11 @@
 
 A comprehensive journey through **Data Structures and Algorithms** with Python, starting from the basics.
 
-## 🎯 Challenge Overview
+##  Challenge Overview
 
 This is a **100-day coding challenge** designed to build a strong foundation in DSA concepts. Each day focuses on understanding key concepts, solving problems, and building problem-solving skills progressively.
 
-**Start Date:** [Your Start Date]  
-**End Date:** [Projected Completion Date]  
+**Start Date:** 27/05/2026    
 **Language:** Python 🐍
 
 ---
@@ -77,7 +76,7 @@ The challenge is organized into phases, each building on previous knowledge:
 
 1. **Learn** - Understand the concept with visual explanations
 2. **Implement** - Code from scratch without looking at solutions
-3. **Practice** - Solve 2-3 problems on the topic
+3. **Practice** - Solve 2-5 problems on the topic
 4. **Review** - Check your solutions and learn optimizations
 
 ---
@@ -86,9 +85,9 @@ The challenge is organized into phases, each building on previous knowledge:
 
 Track your progress here:
 
-- **Days Completed:** 0/100
+- **Days Completed:** 1/100
 - **Topics Completed:** 0/12
-- **Problems Solved:** 0
+- **Problems Solved:** 5
 
 ---
 
@@ -159,7 +158,11 @@ Example: `Day_01_Variables_and_Functions.py`
 
 ---
 
+<<<<<<< HEAD
 ##  Success Metrics
+=======
+## Success Metrics
+>>>>>>> 5d03490 (2nd days of challenge)
 
 - [ ] Solve at least 200+ problems
 - [ ] Understand Big O complexity for all algorithms
@@ -192,6 +195,6 @@ Remember, consistency is key. **100 days from now, you'll be grateful you starte
 
 ---
 
-**Happy Coding!** 🚀
+**Happy Coding!** 
 
 Feel free to update this README as you progress through your 100-day challenge!
