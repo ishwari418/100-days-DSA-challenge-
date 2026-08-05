@@ -1,6 +1,6 @@
 #  100 Days DSA Challenge - Python
 
-A comprehensive journey through **Data Structures and Algorithms** with Python, starting from the basics.
+A comprehensive journey through **Data Structures and Algorithms** with Python, starting from the basics
 
 ##  Challenge Overview
 
